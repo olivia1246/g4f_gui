@@ -21,4 +21,4 @@ pywebview
 plyer
 cryptography
 nodriver
-g4f>=0.3.9.1
+g4f>=0.3.9.5
